@@ -1,0 +1,5 @@
+server:
+  port: 19091
+cxf:
+  jaxrs:
+    component-scan: true
